@@ -17,7 +17,15 @@ Quantum AI Bharat OS is built to democratize AI access across India while ensuri
 
 ---
 
+## 📊 System Architecture
+
+![Architecture Overview](assets/architecture-overview.png)
+
+---
+
 ## 🤖 AI Modules
+
+![AI Modules](assets/ai-modules.png)
 
 ### 🎓 Learning AI
 Personalized education assistant for students and developers
@@ -50,6 +58,10 @@ Market insights and analytics for SMEs
 ---
 
 ## 🏗️ Architecture
+
+![System Flow](assets/system-flow.png)
+
+### Architecture Layers
 
 ```
 User Interface Layer (4 separate domain-specific UIs)
