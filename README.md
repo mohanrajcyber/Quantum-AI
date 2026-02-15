@@ -2,6 +2,8 @@
 
 > **AI Proposes. Humans Decide. Bharat Thrives.** 🇮🇳
 
+**Quantum AI is a governed AI operating system with bounded autonomy and domain-specialized intelligence layers.**
+
 An ethical, human-controlled AI platform designed specifically for Bharat (India), combining multiple AI modules under centralized Master Control to serve students, patients, farmers, and small businesses.
 
 ---
@@ -17,54 +19,7 @@ Quantum AI Bharat OS is built to democratize AI access across India while ensuri
 
 ---
 
-## 💻 Working Prototype
-
-We have developed a functional interface with backend integration using multiple AI APIs (GPT-4, Claude, Gemini) for provider fallback and reliability.
-
-### Main Dashboard
-<p align="center">
-  <img src="assets/interface-main.png" alt="Quantum AI Main Dashboard" width="800"/>
-</p>
-
-*Main interface showing AI module selection and user dashboard*
-
-### Sidebar Navigation
-<p align="center">
-  <img src="assets/interface-sidebar.png" alt="Quantum AI Sidebar" width="800"/>
-</p>
-
-*Navigation sidebar with module access and settings*
-
-### Chat Interface
-<p align="center">
-  <img src="assets/interface-chat.png" alt="Quantum AI Chat Interface" width="800"/>
-</p>
-
-*Interactive chat interface with AI response and context management*
-
-**Technical Implementation:**
-- ✅ Multi-provider AI integration (GPT-4, Claude, Gemini)
-- ✅ Automatic fallback system
-- ✅ Real-time response streaming
-- ✅ Context-aware conversations
-- ✅ Secure API key management
-- ✅ Rate limiting and error handling
-
----
-
-## 📊 System Architecture
-
-<p align="center">
-  <img src="assets/architecture-overview.png" alt="Architecture Overview" width="800"/>
-</p>
-
----
-
 ## 🤖 AI Modules
-
-<p align="center">
-  <img src="assets/ai-modules.png" alt="AI Modules" width="800"/>
-</p>
 
 ### 🎓 Learning AI
 Personalized education assistant for students and developers
@@ -97,12 +52,6 @@ Market insights and analytics for SMEs
 ---
 
 ## 🏗️ Architecture
-
-<p align="center">
-  <img src="assets/system-flow.png" alt="System Flow" width="800"/>
-</p>
-
-### Architecture Layers
 
 ```
 User Interface Layer (4 separate domain-specific UIs)
@@ -365,43 +314,25 @@ This project is currently in the design and planning phase. Contributions, sugge
 
 ## 📄 License
 
-MIT License
+[To be determined]
 
 ---
 
 ## 👥 Team
 
-Team: Solo Founder & Developer
-Name: Mohanraj A
-Role: Cyber Security, System Architect, Full-Stack Developer, AI Orchestration Designer
-
+[Your team information]
 
 ---
 
 ## 📞 Contact
 
-👤 Mohanraj A  
-Founder & Cyber Security – Quantum AI Bharat OS  
-
-📧 Email: mohanraj.cyber@gmail.com , usermademe84@gmail.com
-🔗 GitHub: https://github.com/mohanrajcyber 
-🌐 LinkedIn: https://www.linkedin.com/in/mohan-raj-b510b82b5/ 
-
-For collaborations, technical discussions, or pilot deployments, feel free to reach out.
-
+[Your contact information]
 
 ---
 
 ## 🙏 Acknowledgments
 
-Quantum AI is inspired by the need to build responsible, governed AI systems for India’s diverse population.
-
-Special acknowledgment to:
-- Public data sources such as IMD and Agmarknet
-- Open AI research communities
-- Ethical AI governance frameworks
-
-Built with a vision to democratize AI access while maintaining strict human oversight and fairness.
+Built for Bharat, with a vision to democratize AI access while maintaining ethical standards and human control.
 
 **"AI Proposes. Humans Decide. Bharat Thrives."** 🇮🇳
 
