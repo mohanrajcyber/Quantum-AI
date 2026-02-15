@@ -19,7 +19,54 @@ Quantum AI Bharat OS is built to democratize AI access across India while ensuri
 
 ---
 
-## 🤖 AI Modules
+## 💻 Working Prototype
+
+We have developed a functional interface prototype with AI API integration for demonstration and testing purposes.
+
+### Main Dashboard
+<p align="center">
+  <img src="assets/interface-main.png" alt="Quantum AI Main Dashboard" width="800"/>
+</p>
+
+*Main interface showing AI module selection and user dashboard*
+
+### Sidebar Navigation
+<p align="center">
+  <img src="assets/interface-sidebar.png" alt="Quantum AI Sidebar" width="800"/>
+</p>
+
+*Navigation sidebar with module access and settings*
+
+### Chat Interface
+<p align="center">
+  <img src="assets/interface-chat.png" alt="Quantum AI Chat Interface" width="800"/>
+</p>
+
+*Interactive chat interface with AI response and context management*
+
+**Technical Implementation:**
+- ✅ Multi-provider AI integration (GPT-4, Claude, Gemini)
+- ✅ Automatic fallback system
+- ✅ Real-time response streaming
+- ✅ Context-aware conversations
+- ✅ Secure API key management
+- ✅ Rate limiting and error handling
+
+---
+
+## 📊 System Architecture
+
+<p align="center">
+  <img src="assets/architecture-overview.png" alt="Architecture Overview" width="800"/>
+</p>
+
+---
+
+## 🤖 AI Modules Overview
+
+<p align="center">
+  <img src="assets/ai-modules.png" alt="AI Modules" width="800"/>
+</p>
 
 ### 🎓 Learning AI
 Personalized education assistant for students and developers
@@ -52,6 +99,12 @@ Market insights and analytics for SMEs
 ---
 
 ## 🏗️ Architecture
+
+<p align="center">
+  <img src="assets/system-flow.png" alt="System Flow" width="800"/>
+</p>
+
+### Architecture Layers
 
 ```
 User Interface Layer (4 separate domain-specific UIs)
