@@ -341,32 +341,6 @@
 
 ---
 
-## Budget Estimate (12 Months)
-
-### Infrastructure Costs
-- Cloud hosting (AWS/Azure): ₹15,00,000
-- AI API costs (GPT-4, Claude): ₹25,00,000
-- Database & storage: ₹5,00,000
-- CDN & bandwidth: ₹3,00,000
-- **Subtotal: ₹48,00,000**
-
-### Development Costs
-- Team salaries (avg 15 people): ₹1,80,00,000
-- Freelancers & contractors: ₹20,00,000
-- Tools & licenses: ₹5,00,000
-- **Subtotal: ₹2,05,00,000**
-
-### Marketing & Operations
-- Marketing campaigns: ₹15,00,000
-- Legal & compliance: ₹5,00,000
-- Office & admin: ₹10,00,000
-- Contingency (10%): ₹28,30,000
-- **Subtotal: ₹58,30,000**
-
-### Total Budget: ₹3,11,30,000 (~₹3.1 Crores)
-
----
-
 ## Risk Mitigation
 
 ### Technical Risks
