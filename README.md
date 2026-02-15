@@ -17,19 +17,25 @@ Quantum AI Bharat OS is built to democratize AI access across India while ensuri
 
 ### Quantum AI Interface
 
-![Quantum AI Interface](assets/quantum-ai-interface.png)
+<p align="center">
+  <img src="assets/quantum-ai-interface.png" alt="Quantum AI Interface" width="800"/>
+</p>
 
 ---
 
 ## 📊 System Architecture
 
-![Architecture Overview](assets/architecture-overview.png)
+<p align="center">
+  <img src="assets/architecture-overview.png" alt="Architecture Overview" width="800"/>
+</p>
 
 ---
 
 ## 🤖 AI Modules
 
-![AI Modules](assets/ai-modules.png)
+<p align="center">
+  <img src="assets/ai-modules.png" alt="AI Modules" width="800"/>
+</p>
 
 ### 🎓 Learning AI
 Personalized education assistant for students and developers
@@ -63,7 +69,9 @@ Market insights and analytics for SMEs
 
 ## 🏗️ Architecture
 
-![System Flow](assets/system-flow.png)
+<p align="center">
+  <img src="assets/system-flow.png" alt="System Flow" width="800"/>
+</p>
 
 ### Architecture Layers
 
