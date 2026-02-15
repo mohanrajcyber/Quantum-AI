@@ -15,6 +15,10 @@ Quantum AI Bharat OS is built to democratize AI access across India while ensuri
 - ✅ Ethical AI with transparency
 - ✅ Bharat-first design (multi-language, low-bandwidth, voice input)
 
+### Quantum AI Interface
+
+![Quantum AI Interface](assets/quantum-ai-interface.png)
+
 ---
 
 ## 📊 System Architecture
