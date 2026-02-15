@@ -365,25 +365,43 @@ This project is currently in the design and planning phase. Contributions, sugge
 
 ## 📄 License
 
-[To be determined]
+MIT License
 
 ---
 
 ## 👥 Team
 
-[Your team information]
+Team: Solo Founder & Developer
+Name: Mohanraj A
+Role: Cyber Security, System Architect, Full-Stack Developer, AI Orchestration Designer
+
 
 ---
 
 ## 📞 Contact
 
-[Your contact information]
+👤 Mohanraj A  
+Founder & Cyber Security – Quantum AI Bharat OS  
+
+📧 Email: mohanraj.cyber@gmail.com , usermademe84@gmail.com
+🔗 GitHub: https://github.com/mohanrajcyber 
+🌐 LinkedIn: https://www.linkedin.com/in/mohan-raj-b510b82b5/ 
+
+For collaborations, technical discussions, or pilot deployments, feel free to reach out.
+
 
 ---
 
 ## 🙏 Acknowledgments
 
-Built for Bharat, with a vision to democratize AI access while maintaining ethical standards and human control.
+Quantum AI is inspired by the need to build responsible, governed AI systems for India’s diverse population.
+
+Special acknowledgment to:
+- Public data sources such as IMD and Agmarknet
+- Open AI research communities
+- Ethical AI governance frameworks
+
+Built with a vision to democratize AI access while maintaining strict human oversight and fairness.
 
 **"AI Proposes. Humans Decide. Bharat Thrives."** 🇮🇳
 
