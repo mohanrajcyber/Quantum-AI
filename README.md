@@ -373,13 +373,29 @@ This project is currently in the design and planning phase. Contributions, sugge
 
 ## 👥 Team
 
-[Your team information]
+**Solo Founder & Developer**
+
+**Mohanraj**  
+Role: Cyber Security | System Architect | Full-Stack Developer | AI Orchestration Designer
+
+Building Quantum AI as a solo founder with expertise in cybersecurity, system architecture, and AI governance.
 
 ---
 
 ## 📞 Contact
 
-[Your contact information]
+**Mohanraj**  
+Founder & System Architect – Quantum AI
+
+📧 **Email:**  
+- mohanraj.cyber@gmail.com  
+- usermademe84@gmail.com
+
+🔗 **GitHub:** [github.com/mohanrajcyber](https://github.com/mohanrajcyber)
+
+🌐 **LinkedIn:** [linkedin.com/in/mohan-raj-b510b82b5](https://www.linkedin.com/in/mohan-raj-b510b82b5/)
+
+For collaborations, technical discussions, or pilot deployments, feel free to reach out.
 
 ---
 
