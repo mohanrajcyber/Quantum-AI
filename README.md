@@ -367,7 +367,7 @@ This project is currently in the design and planning phase. Contributions, sugge
 
 ## 📄 License
 
-[To be determined]
+MIT License
 
 ---
 
